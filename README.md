@@ -1,5 +1,6 @@
 OpenCode (oh-my-opencode) Windows 설치 및 사용 가이드
-작성일: 2026-01-07 작성자: Dr. HighGenius (고유진) 환경: Windows 10/11, Node.js (NPM)
+
+환경: Windows 10/11, Node.js (NPM)
 
 1. 개요
 이 문서는 AI 코딩 에이전트 OpenCode를 Windows 환경에서 oh-my-opencode 플러그인 매니저를 통해 설치하고 사용하는 방법을 다룹니다. (Bun 런타임은 Windows 파일 잠금 이슈로 인해 사용을 권장하지 않음)
