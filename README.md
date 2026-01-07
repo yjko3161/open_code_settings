@@ -8,6 +8,10 @@ OpenCode (oh-my-opencode) Windows 설치 및 사용 가이드
 2. 설치 방법 (Installation)
 가장 안정적인 NPM(Node.js) 기반 설치 방식입니다.
 
+노드 설치 후 
+
+npm i -g opencode-ai
+
 2.1 초기 설치 명령어
 터미널(cmd)에서 아래 명령어를 실행하여 설치 마법사를 시작합니다.
 
